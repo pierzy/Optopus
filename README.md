@@ -1,5 +1,6 @@
 <p>
-  <img src="images/optopod.eps.png" width="350"/>
+  <img src="images/octopod.eps.png" width="350"/>
 </p>
+
 # Optopus
 The Optopus black-box optimizer
