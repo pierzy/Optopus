@@ -3,4 +3,6 @@
 </p>
 
 # Optopus
-The Optopus black-box optimizer
+The Optopus black-box optimizer. Features:
+- Unconstrained and constrained probems
+- Algorithms: DE, JADE, ...

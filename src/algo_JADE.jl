@@ -1,7 +1,7 @@
 using Distributions
 
 function algo_JADE(f::Function,plotf::Function,vp::VarParam,ap::JADEParam,op::OptParam)
-    epsmax=1.0e-2
+    ϵ_max=1.0e-2
     epsmin=1.0e-8
     eps=epsmax
     maxit=ap.niter
